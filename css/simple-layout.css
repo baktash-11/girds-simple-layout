@@ -14,7 +14,7 @@ body{
     
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 h1 ,h2, p, img{
     padding-bottom: 20px;
@@ -61,7 +61,7 @@ ul{
     padding: 2%;
     width: 75%;
     float: left;
-    position: relative;
+    /* position: relative; */
 }
 .blog-post h1{
     margin-left: 20%;
